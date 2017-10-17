@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SwingMain
+comment1.params=
+comment1.target=SwingMain()
+comment2.params=
+comment2.target=void\ initComponents()
+comment3.params=
+comment3.target=void\ initListeners()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

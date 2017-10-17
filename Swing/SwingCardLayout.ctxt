@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SwingCardLayout
+comment1.params=
+comment1.target=SwingCardLayout()
+comment2.params=
+comment2.target=void\ initListeners()
+comment3.params=e
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+comment4.params=
+comment4.target=void\ initComponents()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
